@@ -1,0 +1,86 @@
+body {
+    font-family: "Courier New", "monospace";
+    text-align: center;
+    color: black;
+    border: 2px solid grey;
+    border-radius: 15px;
+    margin: 25px 25px 25px 25px;
+}
+
+h1, h2, h3 {
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h1, h3  {
+    padding: 0px;
+    margin: 0px;
+}
+
+#skills {
+    padding: 150px 0px 100px;
+    background-color: #e5eaf5;
+    border-top: double 5px grey;
+}
+
+ul {
+    list-style: none;
+    line-height: 50px;
+    text-indent: -2em;
+}
+
+#about-me {
+    padding: 100px;
+    background-color: #a0d2eb;
+    border-top: double 5px grey;
+}
+
+img {
+    border-radius: 15px;
+    box-shadow: 10px 10px 5px gray;
+}
+
+#about-me p {
+    padding: 50px 100px;
+    text-indent: 2em;
+    
+}
+
+#fun-fact {
+    font-size: .8em;
+}
+
+#intro, #main-name, #slogan {
+    background-color: #a0d2eb;
+    padding: 5px;
+}
+
+#online-presence {
+    background-color: #e5eaf5;
+    padding: 50px;
+    border-top: double 5px grey;
+    border-bottom-left-radius: 15px; 
+    border-bottom-right-radius: 15px;
+}
+
+#slogan {
+    padding-bottom: 25px;
+}
+
+#main-name {
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+
+#intro {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
